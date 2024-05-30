@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+button {
+    all: unset;
+    cursor: pointer;
+    outline: revert;
+  }
+.presente{
+   width: 30%;
+   color: white;
+}
+.coracao{
+   width: 100%;
+   color: white;
+}
+.localizacao{
+    width: 100%;
+    color: white;
+}
